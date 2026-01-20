@@ -1,0 +1,46 @@
+[
+    {
+        "name": "John Doe",
+        "roll_number": "12345",
+        "2023-10-01": "Present",
+        "2023-10-02": "Present",
+        "2023-10-03": "Present",
+        "2025-03-16": "Absent",
+        "2025-03-17": "Absent",
+        "2025-03-18": "Present",
+        "2025-03-28": "Present",
+        "2025-03-19": "Present",
+        "2025-03-20": "Present",
+        "2025-03-21": "Present",
+        "2025-03-22": "Present"
+    },
+    {
+        "name": "Jane Smith",
+        "roll_number": "67890",
+        "2023-10-01": "Present",
+        "2023-10-02": "Present",
+        "2023-10-03": "Present",
+        "2025-03-16": "Absent",
+        "2025-03-17": "Absent"
+    },
+    {
+        "name": "Dwijasri",
+        "roll_number": "10223",
+        "2023-10-01": "Absent",
+        "2023-10-02": "Absent",
+        "2023-10-03": "Absent",
+        "2025-03-16": "Present",
+        "2025-03-17": "Present",
+        "2025-03-28": "Present",
+        "2025-04-04": "Present",
+        "2025-04-07": "Present",
+        "2025-05-07": "Present",
+        "2026-01-20": "Present"
+    },
+    {
+        "name": "Likitha",
+        "roll_number": "10234",
+        "2025-03-17": "Present",
+        "2025-03-28": "Present"
+    }
+]
